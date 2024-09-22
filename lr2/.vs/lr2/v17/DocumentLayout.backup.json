@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|d:\\univer\\3_kurs_4s\\asp.net\\2\\lr2\\lr2\\personal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|solutionrelative:lr2\\personal.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|d:\\univer\\3_kurs_4s\\asp.net\\2\\lr2\\lr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|solutionrelative:lr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|d:\\univer\\3_kurs_4s\\asp.net\\2\\lr2\\lr2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|solutionrelative:lr2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|d:\\univer\\3_kurs_4s\\asp.net\\2\\lr2\\lr2\\companies.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|solutionrelative:lr2\\companies.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|d:\\univer\\3_kurs_4s\\asp.net\\2\\lr2\\lr2\\companies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|solutionrelative:lr2\\companies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|d:\\univer\\3_kurs_4s\\asp.net\\2\\lr2\\lr2\\companies.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|solutionrelative:lr2\\companies.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|d:\\univer\\3_kurs_4s\\asp.net\\2\\lr2\\lr2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{123B0BAE-3257-49CB-859C-4CC1C9A8DAC1}|lr2\\lr2.csproj|solutionrelative:lr2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "personal.json",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\personal.json",
+              "RelativeDocumentMoniker": "lr2\\personal.json",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\personal.json",
+              "RelativeToolTip": "lr2\\personal.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T15:31:00.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\appsettings.json",
+              "RelativeDocumentMoniker": "lr2\\appsettings.json",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\appsettings.json",
+              "RelativeToolTip": "lr2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T15:20:45.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "companies.xml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\companies.xml",
+              "RelativeDocumentMoniker": "lr2\\companies.xml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\companies.xml",
+              "RelativeToolTip": "lr2\\companies.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-22T15:14:13.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "companies.json",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\companies.json",
+              "RelativeDocumentMoniker": "lr2\\companies.json",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\companies.json",
+              "RelativeToolTip": "lr2\\companies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T15:14:12.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "companies.ini",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\companies.ini",
+              "RelativeDocumentMoniker": "lr2\\companies.ini",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\companies.ini",
+              "RelativeToolTip": "lr2\\companies.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2024-09-22T13:48:18.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lr2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lr2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T13:55:56.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\Program.cs",
+              "RelativeDocumentMoniker": "lr2\\Program.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\2\\lr2\\lr2\\Program.cs",
+              "RelativeToolTip": "lr2\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T13:05:17.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

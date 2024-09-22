@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<companies>
+	<Microsoft Employees="220000" Revenue="168000" Founded="1975" />
+	<Apple Employees="164000" Revenue="274000" Founded="1976" />
+	<Google Employees="190000" Revenue="182000" Founded="1998" />
+</companies>
