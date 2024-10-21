@@ -2,9 +2,16 @@
 
 <h2>Ваше замовлення</h2>
 
-<ul>
-    @foreach (var product in Model)
-    {
-        <li>@product.Name - Кількість: @product.Quantity</li>
-    }
-</ul>
+@if (Model == null || !Model.Any())
+{
+    <p>Замовлення відсутнє</p>
+}
+else
+{
+    <ul>
+        @foreach (var product in Model)
+        {
+            <li>@product.Name - Кількість: @product.Quantity</li>
+        }
+    </ul>
+}

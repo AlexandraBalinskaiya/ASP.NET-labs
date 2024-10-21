@@ -4,7 +4,9 @@ using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Добавляем поддержку контроллеров с представлениями
+// Додаємо підтримку сесій
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession();
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -19,9 +21,10 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseSession(); // Додаємо сесію
+
 app.UseAuthorization();
 
-// Поддержка контроллеров и представлений
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Order}/{action=Register}/{id?}");

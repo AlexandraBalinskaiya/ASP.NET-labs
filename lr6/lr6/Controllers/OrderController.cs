@@ -6,7 +6,6 @@ namespace lr6.Controllers
 {
     public class OrderController : Controller
     {
-        // Страница регистрации
         public IActionResult Register()
         {
             return View(new User());
@@ -20,12 +19,10 @@ namespace lr6.Controllers
                 return RedirectToAction("SelectProducts");
             }
 
-            // Добавляем сообщение в ViewBag, если возраст меньше 16
-            ViewBag.Message = "Вік має бути більше 16 років!";
+            ViewBag.Message = "Возраст должен быть больше 16 лет!";
             return View(user);
         }
 
-        // Выбор количества товаров
         public IActionResult SelectProducts()
         {
             return View();
@@ -41,21 +38,25 @@ namespace lr6.Controllers
                 {
                     products.Add(new Product());
                 }
+                // Зберігаємо список продуктів в сесію
+                HttpContext.Session.Set("Products", products);
                 return View("FillProducts", products);
             }
             return View();
         }
 
-        // Заполнение данных по каждому продукту
         [HttpPost]
         public IActionResult FillProducts(List<Product> products)
         {
-            return RedirectToAction("Summary", new { products = products });
+            // Оновлюємо продукти в сесії
+            HttpContext.Session.Set("Products", products);
+            return RedirectToAction("Summary");
         }
 
-        // Подведение итогов заказа
-        public IActionResult Summary(List<Product> products)
+        public IActionResult Summary()
         {
+            // Отримуємо продукти з сесії
+            var products = HttpContext.Session.Get<List<Product>>("Products");
             return View(products);
         }
     }
