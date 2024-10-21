@@ -4,9 +4,12 @@ using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
+<<<<<<< HEAD
 // Додаємо підтримку сесій
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession();
+=======
+>>>>>>> 6c6b3a9b697328b5b0acec3a8941f3ea97708b80
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

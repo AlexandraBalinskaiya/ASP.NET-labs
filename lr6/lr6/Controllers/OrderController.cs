@@ -19,7 +19,11 @@ namespace lr6.Controllers
                 return RedirectToAction("SelectProducts");
             }
 
+<<<<<<< HEAD
             ViewBag.Message = "Возраст должен быть больше 16 лет!";
+=======
+            ViewBag.Message = "Вік має бути більше 16 років!";
+>>>>>>> 6c6b3a9b697328b5b0acec3a8941f3ea97708b80
             return View(user);
         }
 
@@ -53,7 +57,11 @@ namespace lr6.Controllers
             return RedirectToAction("Summary");
         }
 
+<<<<<<< HEAD
         public IActionResult Summary()
+=======
+        public IActionResult Summary(List<Product> products)
+>>>>>>> 6c6b3a9b697328b5b0acec3a8941f3ea97708b80
         {
             // Отримуємо продукти з сесії
             var products = HttpContext.Session.Get<List<Product>>("Products");
