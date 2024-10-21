@@ -4,7 +4,6 @@ using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Добавляем поддержку контроллеров с представлениями
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -21,7 +20,6 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseAuthorization();
 
-// Поддержка контроллеров и представлений
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Order}/{action=Register}/{id?}");
