@@ -1,0 +1,21 @@
+﻿@model lr6.Models.User
+
+<h2>Введіть ваші дані</h2>
+
+<form method="post">
+    <div>
+        <label>Ім'я:</label>
+        <input asp-for="Name" />
+    </div>
+    <div>
+        <label>Вік:</label>
+        <input asp-for="Age" type="number" />
+    </div>
+    <button type="submit">Підтвердити</button>
+</form>
+@if (ViewBag.Message != null)
+{
+    <div style="color:red;">
+        <p>@ViewBag.Message</p>
+    </div>
+}

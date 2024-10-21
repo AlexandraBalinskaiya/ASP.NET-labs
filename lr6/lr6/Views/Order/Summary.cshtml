@@ -1,0 +1,10 @@
+﻿@model List<lr6.Models.Product>
+
+<h2>Ваше замовлення</h2>
+
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>@product.Name - Кількість: @product.Quantity</li>
+    }
+</ul>

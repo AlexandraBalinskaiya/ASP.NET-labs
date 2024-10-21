@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\views\\order\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\views\\order\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\views\\order\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\views\\order\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\views\\order\\fillproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\views\\order\\fillproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\views\\order\\selectproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\views\\order\\selectproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|d:\\univer\\3_kurs_4s\\asp.net\\6\\lr6\\lr6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBE6E34-60AD-441A-8DCA-EB9BAF14103F}|lr6\\lr6.csproj|solutionrelative:lr6\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "lr6\\Models\\SessionExtensions.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "lr6\\Models\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:16:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lr6\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lr6\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T17:33:21.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Views\\Order\\Summary.cshtml",
+              "RelativeDocumentMoniker": "lr6\\Views\\Order\\Summary.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Views\\Order\\Summary.cshtml",
+              "RelativeToolTip": "lr6\\Views\\Order\\Summary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:16:11.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FillProducts.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Views\\Order\\FillProducts.cshtml",
+              "RelativeDocumentMoniker": "lr6\\Views\\Order\\FillProducts.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Views\\Order\\FillProducts.cshtml",
+              "RelativeToolTip": "lr6\\Views\\Order\\FillProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:15:05.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectProducts.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Views\\Order\\SelectProducts.cshtml",
+              "RelativeDocumentMoniker": "lr6\\Views\\Order\\SelectProducts.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Views\\Order\\SelectProducts.cshtml",
+              "RelativeToolTip": "lr6\\Views\\Order\\SelectProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:13:48.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Views\\Order\\Register.cshtml",
+              "RelativeDocumentMoniker": "lr6\\Views\\Order\\Register.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Views\\Order\\Register.cshtml*",
+              "RelativeToolTip": "lr6\\Views\\Order\\Register.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T17:12:59.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "lr6\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Controllers\\OrderController.cs*",
+              "RelativeToolTip": "lr6\\Controllers\\OrderController.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:11:13.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "lr6\\Models\\Product.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Models\\Product.cs",
+              "RelativeToolTip": "lr6\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:10:33.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Models\\User.cs",
+              "RelativeDocumentMoniker": "lr6\\Models\\User.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Models\\User.cs",
+              "RelativeToolTip": "lr6\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:10:13.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Program.cs",
+              "RelativeDocumentMoniker": "lr6\\Program.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\6\\lr6\\lr6\\Program.cs*",
+              "RelativeToolTip": "lr6\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:08:54.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
