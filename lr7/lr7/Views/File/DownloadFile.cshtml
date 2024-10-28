@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Download File";
+}
+
+<h2>Форма для завантаження файлу</h2>
+
+<form method="post" asp-action="DownloadFile">
+    <div>
+        <label for="firstName">Ім'я:</label>
+        <input type="text" name="firstName" required />
+    </div>
+    <div>
+        <label for="lastName">Прізвище:</label>
+        <input type="text" name="lastName" required />
+    </div>
+    <div>
+        <label for="fileName">Назва файлу:</label>
+        <input type="text" name="fileName" required />
+    </div>
+    <button type="submit">Завантажити файл</button>
+</form>
