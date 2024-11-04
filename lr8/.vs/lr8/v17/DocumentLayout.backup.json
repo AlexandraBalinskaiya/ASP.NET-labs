@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\8\\lr8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A99E797-546A-4162-A1DF-935C04BCB034}|lr8\\lr8.csproj|d:\\univer\\3_kurs_4s\\asp.net\\8\\lr8\\lr8\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A99E797-546A-4162-A1DF-935C04BCB034}|lr8\\lr8.csproj|solutionrelative:lr8\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A99E797-546A-4162-A1DF-935C04BCB034}|lr8\\lr8.csproj|d:\\univer\\3_kurs_4s\\asp.net\\8\\lr8\\lr8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A99E797-546A-4162-A1DF-935C04BCB034}|lr8\\lr8.csproj|solutionrelative:lr8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A99E797-546A-4162-A1DF-935C04BCB034}|lr8\\lr8.csproj|d:\\univer\\3_kurs_4s\\asp.net\\8\\lr8\\lr8\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A99E797-546A-4162-A1DF-935C04BCB034}|lr8\\lr8.csproj|solutionrelative:lr8\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A99E797-546A-4162-A1DF-935C04BCB034}|lr8\\lr8.csproj|d:\\univer\\3_kurs_4s\\asp.net\\8\\lr8\\lr8\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A99E797-546A-4162-A1DF-935C04BCB034}|lr8\\lr8.csproj|solutionrelative:lr8\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\8\\lr8\\lr8\\Program.cs",
+              "RelativeDocumentMoniker": "lr8\\Program.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\8\\lr8\\lr8\\Program.cs",
+              "RelativeToolTip": "lr8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:11:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\8\\lr8\\lr8\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "lr8\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\8\\lr8\\lr8\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "lr8\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:10:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\8\\lr8\\lr8\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "lr8\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\8\\lr8\\lr8\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "lr8\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:09:31.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\8\\lr8\\lr8\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "lr8\\Models\\Product.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\8\\lr8\\lr8\\Models\\Product.cs",
+              "RelativeToolTip": "lr8\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:08:31.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
