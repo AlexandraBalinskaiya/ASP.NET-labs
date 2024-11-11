@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\views\\shared\\components\\producttable\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\views\\shared\\components\\producttable\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\views\\shared\\components\\producttableviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\views\\shared\\components\\producttableviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\views\\shared\\components\\weather\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\views\\shared\\components\\weather\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\views\\shared\\components\\weatherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\views\\shared\\components\\weatherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\models\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\models\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\views\\shared\\components\\weather\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\views\\shared\\components\\weather\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|d:\\univer\\3_kurs_4s\\asp.net\\9\\lr9\\lr9\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3D6C930-6FF3-4BF1-9744-1B69270A515F}|lr9\\lr9.csproj|solutionrelative:lr9\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductTableViewComponent.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\ProductTableViewComponent.cs",
+              "RelativeDocumentMoniker": "lr9\\Views\\Shared\\Components\\ProductTableViewComponent.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\ProductTableViewComponent.cs",
+              "RelativeToolTip": "lr9\\Views\\Shared\\Components\\ProductTableViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:30:08.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "RelativeDocumentMoniker": "lr9\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "RelativeToolTip": "lr9\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T12:26:38.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherViewComponent.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\WeatherViewComponent.cs",
+              "RelativeDocumentMoniker": "lr9\\Views\\Shared\\Components\\WeatherViewComponent.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\WeatherViewComponent.cs",
+              "RelativeToolTip": "lr9\\Views\\Shared\\Components\\WeatherViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:25:55.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\Weather\\WeatherData.cs",
+              "RelativeDocumentMoniker": "lr9\\Views\\Shared\\Components\\Weather\\WeatherData.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\Weather\\WeatherData.cs",
+              "RelativeToolTip": "lr9\\Views\\Shared\\Components\\Weather\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:24:20.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lr9\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lr9\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:21:11.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "lr9\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "lr9\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:27:17.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lr9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lr9\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:27:06.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Program.cs",
+              "RelativeDocumentMoniker": "lr9\\Program.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Program.cs",
+              "RelativeToolTip": "lr9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:26:54.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "lr9\\Models\\WeatherData.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Models\\WeatherData.cs",
+              "RelativeToolTip": "lr9\\Models\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:26:09.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\appsettings.json",
+              "RelativeDocumentMoniker": "lr9\\appsettings.json",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\appsettings.json",
+              "RelativeToolTip": "lr9\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T08:25:23.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Models\\WeatherService.cs",
+              "RelativeDocumentMoniker": "lr9\\Models\\WeatherService.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Models\\WeatherService.cs",
+              "RelativeToolTip": "lr9\\Models\\WeatherService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:24:22.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\ProductTable\\Default.cshtml",
+              "RelativeDocumentMoniker": "lr9\\Views\\Shared\\Components\\ProductTable\\Default.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Views\\Shared\\Components\\ProductTable\\Default.cshtml",
+              "RelativeToolTip": "lr9\\Views\\Shared\\Components\\ProductTable\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T08:24:01.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "lr9\\Models\\Product.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\9\\lr9\\lr9\\Models\\Product.cs",
+              "RelativeToolTip": "lr9\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T08:23:09.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

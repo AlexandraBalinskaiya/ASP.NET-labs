@@ -1,0 +1,7 @@
+﻿@model lr9.Models.WeatherData
+
+<div>
+    <h2>Погода в регіоні @Model.Name</h2>
+    <p>Температура: @Model.Main.Temp °C</p>
+    <p>Опис: @Model.Weather[0].Description</p>
+</div>

@@ -1,0 +1,5 @@
+﻿@model IEnumerable<lr9.Models.Product>
+
+<h1>Список продуктів</h1>
+@await Component.InvokeAsync("ProductTable", new { products = Model })
+@await Component.InvokeAsync("Weather", new { region = "Mykolaiv" })
