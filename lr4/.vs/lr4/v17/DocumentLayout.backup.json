@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|d:\\univer\\3_kurs_4s\\asp.net\\4\\lr4\\lr4\\profiles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|solutionrelative:lr4\\profiles.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|d:\\univer\\3_kurs_4s\\asp.net\\4\\lr4\\lr4\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|solutionrelative:lr4\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|d:\\univer\\3_kurs_4s\\asp.net\\4\\lr4\\lr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|solutionrelative:lr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|d:\\univer\\3_kurs_4s\\asp.net\\4\\lr4\\lr4\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|solutionrelative:lr4\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|d:\\univer\\3_kurs_4s\\asp.net\\4\\lr4\\lr4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759E2C16-C490-434E-8E77-DBB4804A53F4}|lr4\\lr4.csproj|solutionrelative:lr4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "lr4\\Models\\Profile.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\Models\\Profile.cs",
+              "RelativeToolTip": "lr4\\Models\\Profile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:01:48.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "lr4\\Models\\Book.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\Models\\Book.cs",
+              "RelativeToolTip": "lr4\\Models\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:01:36.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\Program.cs",
+              "RelativeDocumentMoniker": "lr4\\Program.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\Program.cs",
+              "RelativeToolTip": "lr4\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:00:01.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "profiles.json",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\profiles.json",
+              "RelativeDocumentMoniker": "lr4\\profiles.json",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\profiles.json",
+              "RelativeToolTip": "lr4\\profiles.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T13:57:59.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "books.json",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\books.json",
+              "RelativeDocumentMoniker": "lr4\\books.json",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\4\\lr4\\lr4\\books.json",
+              "RelativeToolTip": "lr4\\books.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T13:57:48.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

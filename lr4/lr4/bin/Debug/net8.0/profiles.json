@@ -1,0 +1,34 @@
+{
+  "Profiles": [
+    {
+      "Id": 0,
+      "Name": "root",
+      "Age": 25
+    },
+    /*{
+      "Id": 1,
+      "Name": "Alex",
+      "Age": 19
+    },*/
+    {
+      "Id": 2,
+      "Name": "Maria",
+      "Age": 30
+    },
+    {
+      "Id": 3,
+      "Name": "Ivan",
+      "Age": 35
+    },
+    {
+      "Id": 4,
+      "Name": "Anna",
+      "Age": 28
+    },
+    {
+      "Id": 5,
+      "Name": "Olga",
+      "Age": 22
+    }
+  ]
+}
