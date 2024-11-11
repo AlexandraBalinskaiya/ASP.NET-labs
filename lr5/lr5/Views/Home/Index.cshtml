@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Enter Value and Expiry Date</h2>
+
+<form method="post" action="/Home/SaveToCookies">
+    <label for="value">Value:</label>
+    <input type="text" id="value" name="value" required />
+
+    <label for="expiryDate">Expiry Date:</label>
+    <input type="datetime-local" id="expiryDate" name="expiryDate" required />
+
+    <button type="submit">Save to Cookies</button>
+</form>

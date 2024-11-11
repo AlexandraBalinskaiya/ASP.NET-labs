@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|d:\\univer\\3_kurs_4s\\asp.net\\5\\lr5\\lr5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|solutionrelative:lr5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|d:\\univer\\3_kurs_4s\\asp.net\\5\\lr5\\lr5\\views\\home\\checkcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|solutionrelative:lr5\\views\\home\\checkcookies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|d:\\univer\\3_kurs_4s\\asp.net\\5\\lr5\\lr5\\middleware\\errorloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|solutionrelative:lr5\\middleware\\errorloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|d:\\univer\\3_kurs_4s\\asp.net\\5\\lr5\\lr5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|solutionrelative:lr5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|d:\\univer\\3_kurs_4s\\asp.net\\5\\lr5\\lr5\\logs\\error_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|solutionrelative:lr5\\logs\\error_log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|d:\\univer\\3_kurs_4s\\asp.net\\5\\lr5\\lr5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2ACBF8E-3CE4-4141-BABD-D38EF890DCD8}|lr5\\lr5.csproj|solutionrelative:lr5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "error_log.txt",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\logs\\error_log.txt",
+              "RelativeDocumentMoniker": "lr5\\logs\\error_log.txt",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\logs\\error_log.txt",
+              "RelativeToolTip": "lr5\\logs\\error_log.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-11T17:13:49.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lr5\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lr5\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T14:47:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorLoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Middleware\\ErrorLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "lr5\\Middleware\\ErrorLoggingMiddleware.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Middleware\\ErrorLoggingMiddleware.cs",
+              "RelativeToolTip": "lr5\\Middleware\\ErrorLoggingMiddleware.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:47:18.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckCookies.cshtml",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Views\\Home\\CheckCookies.cshtml",
+              "RelativeDocumentMoniker": "lr5\\Views\\Home\\CheckCookies.cshtml",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Views\\Home\\CheckCookies.cshtml",
+              "RelativeToolTip": "lr5\\Views\\Home\\CheckCookies.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T14:46:40.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "lr5\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lr5\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:46:08.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Program.cs",
+              "RelativeDocumentMoniker": "lr5\\Program.cs",
+              "ToolTip": "D:\\UNIVER\\3_kurs_4s\\ASP.NET\\5\\lr5\\lr5\\Program.cs",
+              "RelativeToolTip": "lr5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:38:57.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

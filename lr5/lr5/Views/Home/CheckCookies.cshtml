@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Check Cookies";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (Context.Request.Cookies.TryGetValue("UserValue", out string userValue))
+{
+    <p>Value from cookies: <strong>@userValue</strong></p>
+}
+else
+{
+    <p>No value found in cookies.</p>
+}
